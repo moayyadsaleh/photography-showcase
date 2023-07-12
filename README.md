@@ -10,4 +10,9 @@ Media Queries: I incorporated media queries in the CSS to create a responsive de
 Unsplash API: The images displayed on the website are fetched from the Unsplash API, which provides high-quality and diverse nature images.
 Git: I utilized Git as the version control system to manage and track changes to the codebase.
 
+Live Demo:https://moayyadsaleh.github.io/photography-showcase/
+
+
+
+
 ![Screenshot 2023-07-12 150712](https://github.com/moayyadsaleh/photography-showcase/assets/137034202/fa889889-cf00-4cb7-9ba9-ec3275a888ea)
